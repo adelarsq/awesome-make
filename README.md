@@ -13,8 +13,9 @@
 ## Alternatives
 
 - [Just](https://github.com/casey/just) (Rust)
-- [Task](https://github.com/go-task/task) (Go)
 - [Mage](https://github.com/magefile/mage) (Go)
+- [Meson](https://mesonbuild.com) (Python)
+- [Task](https://github.com/go-task/task) (Go)
 
 ## Bugs
 
