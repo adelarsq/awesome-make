@@ -1,4 +1,4 @@
-# awesome-make
+# Awesome Make
 
 - [Oficial Reference](https://www.gnu.org/s/make/manual/make.html)
 - [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
