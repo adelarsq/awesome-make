@@ -1,11 +1,15 @@
 # Awesome Make
 
 - [Oficial Reference](https://www.gnu.org/s/make/manual/make.html)
-- [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
 - [Seamlessly Run Composer On HHVM Inside Docker: Introducing make-docker-command](https://marmelab.com/blog/2014/09/10/make-docker-command.html)
 - [The Language Agnostic, All-Purpose, Incredible, Makefile](https://news.ycombinator.com/item?id=21566530)
 - [Automation and Make](https://swcarpentry.github.io/make-novice)
 - [Recursive Make](https://www.gnu.org/software/make/manual/html_node/Recursion.html) - can be used to simplify the build on large projects
+
+## Improving Make
+
+- [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
+- [Make2Tap](https://www.npmjs.com/package/make2tap) - Leverage Tap to transform the make outputs into nice readable ones
 
 ## Lint
 
