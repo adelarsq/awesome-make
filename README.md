@@ -5,6 +5,7 @@
 - [The Language Agnostic, All-Purpose, Incredible, Makefile](https://news.ycombinator.com/item?id=21566530)
 - [Automation and Make](https://swcarpentry.github.io/make-novice)
 - [Recursive Make](https://www.gnu.org/software/make/manual/html_node/Recursion.html) - can be used to simplify the build on large projects
+- [Makefiles, best practices](https://danyspin97.org/blog/makefiles-best-practices)
 
 ## Improving Make
 
