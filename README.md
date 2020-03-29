@@ -7,6 +7,7 @@
 - [Recursive Make](https://www.gnu.org/software/make/manual/html_node/Recursion.html) - can be used to simplify the build on large projects
 - [Makefiles, best practices](https://danyspin97.org/blog/makefiles-best-practices)
 - [Your Makefiles are wrong](https://tech.davis-hansson.com/p/make/)
+- [Using Makefile(s) for Go](https://news.ycombinator.com/item?id=21735176)
 
 ## Improving Make
 
