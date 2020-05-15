@@ -8,6 +8,8 @@
 - [Makefiles, best practices](https://danyspin97.org/blog/makefiles-best-practices)
 - [Your Makefiles are wrong](https://tech.davis-hansson.com/p/make/)
 - [Using Makefile(s) for Go](https://news.ycombinator.com/item?id=21735176)
+- [Polyglot Makefiles](http://agdr.org/2020/05/14/Polyglot-Makefiles.html)
+  - [HN](https://news.ycombinator.com/item?id=23193952)
 
 ## Improving Make
 
