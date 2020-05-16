@@ -1,6 +1,6 @@
 # Awesome Make
 
-- [Oficial Reference](https://www.gnu.org/s/make/manual/make.html)
+- [Official Reference](https://www.gnu.org/s/make/manual/make.html)
 - [Seamlessly Run Composer On HHVM Inside Docker: Introducing make-docker-command](https://marmelab.com/blog/2014/09/10/make-docker-command.html)
 - [The Language Agnostic, All-Purpose, Incredible, Makefile](https://news.ycombinator.com/item?id=21566530)
 - [Automation and Make](https://swcarpentry.github.io/make-novice)
