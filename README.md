@@ -17,6 +17,7 @@
 
 ## Alternatives
 
+- [ninja](https://github.com/ninja-build/ninja)
 - [Just](https://github.com/casey/just) (Rust)
 - [Mage](https://github.com/magefile/mage) (Go)
 - [Meson](https://mesonbuild.com) (Python)
