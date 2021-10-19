@@ -21,6 +21,7 @@
 - [Just](https://github.com/casey/just) (Rust)
 - [Mage](https://github.com/magefile/mage) (Go)
 - [Meson](https://mesonbuild.com) (Python)
+- [Ninja](https://github.com/ninja-build/ninja)
 - [Task](https://github.com/go-task/task) (Go)
 
 ## Bugs
