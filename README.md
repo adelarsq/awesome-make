@@ -11,9 +11,10 @@
 - [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
 - [Make2Tap](https://www.npmjs.com/package/make2tap) - Leverage Tap to transform the make outputs into nice readable ones
 
-## Lint
+## Lint and Highlight
 
 - [CheckMake](https://github.com/mrtazz/checkmake)
+- [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make)
 
 ## Alternatives
 
