@@ -27,6 +27,12 @@
 - [Ninja](https://github.com/ninja-build/ninja)
 - [Task](https://github.com/go-task/task) (Go)
 
+## Tools
+
+### Plugins
+
+- [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - Simple telescope extension to run GNU Make targets in [Neovim](https://neovim.io)
+
 ## Bugs
 
 - [Can GNU make handle filenames with spaces?](https://stackoverflow.com/questions/9838384/can-gnu-make-handle-filenames-with-spaces)
