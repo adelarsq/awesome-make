@@ -31,7 +31,7 @@
 
 ### Plugins
 
-- [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - Simple telescope extension to run GNU Make targets in [Neovim](https://neovim.io)
+- [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) extension to run GNU Make targets in [Neovim](https://neovim.io)
 
 ## Bugs
 
