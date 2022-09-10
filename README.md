@@ -26,6 +26,7 @@
 - [Meson](https://mesonbuild.com) (Python)
 - [Ninja](https://github.com/ninja-build/ninja)
 - [Task](https://github.com/go-task/task) (Go)
+- [Alternatives list on Github](https://github.com/topics/make)
 
 ## Tools
 
