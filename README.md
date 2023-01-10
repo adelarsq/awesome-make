@@ -21,7 +21,7 @@
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) (.NET - F#/C#)
 - [Fake](https://github.com/fsprojects/FAKE) (F#)
 - [FsMake](https://github.com/seanamos/FsMake) (F#)
-- [Just](https://github.com/casey/just) (Rust)
+- [Just](https://github.com/casey/just) (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
 - [Mage](https://github.com/magefile/mage) (Go)
 - [Meson](https://mesonbuild.com) (Python)
 - [Ninja](https://github.com/ninja-build/ninja)
