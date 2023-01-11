@@ -51,4 +51,8 @@
   - [HN](https://news.ycombinator.com/item?id=23193952)
 - [The Makefile I use with JavaScript projects](https://www.olioapps.com/blog/the-lost-art-of-the-makefile)
   - [HN](https://news.ycombinator.com/item?id=16483889)
+- [Makefiles for Web Work](https://rosszurowski.com/log/2022/makefiles)
+  - [HN](https://news.ycombinator.com/item?id=34330198)
+- [Makefile to compile a Maven/Gradle-style project layout using a custom JDK](https://gist.github.com/GavinRay97/bd7e36f3db9d3414b680d30a70f71f32)
+- [Make Developing Easier by Building a Beautiful Makefile](https://8thlight.com/insights/make-developing-easier-by-building-a-beautiful-makefile)
 
