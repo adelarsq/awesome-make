@@ -25,6 +25,8 @@
 - [Mage](https://github.com/magefile/mage) (Go)
 - [Meson](https://mesonbuild.com) (Python)
 - [Ninja](https://github.com/ninja-build/ninja)
+- [shmux](https://github.com/shmux/shmux)
+- [shikaan/shmux](https://github.com/shikaan/shmux)
 - [Task](https://github.com/go-task/task) (Go)
 - [Alternatives list on Github](https://github.com/topics/make)
 
