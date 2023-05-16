@@ -19,6 +19,7 @@
 ## Alternatives
 
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) (.NET - F#/C#)
+- [Erlang.mk](https://erlang.mk) (Erlang)
 - [Fake](https://github.com/fsprojects/FAKE) (F#)
 - [FsMake](https://github.com/seanamos/FsMake) (F#)
 - [Just](https://github.com/casey/just) (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
