@@ -5,6 +5,7 @@
 ## Docs/Tutorials
 
 - [Makefile Tutorial](http://makefiletutorial.com)
+- [New make --shuffle mode](https://trofi.github.io/posts/238-new-make-shuffle-mode.html)
 
 ## Improving Make
 
