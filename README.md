@@ -60,4 +60,5 @@
 - [Makefile to compile a Maven/Gradle-style project layout using a custom JDK](https://gist.github.com/GavinRay97/bd7e36f3db9d3414b680d30a70f71f32)
 - [Make Developing Easier by Building a Beautiful Makefile](https://8thlight.com/insights/make-developing-easier-by-building-a-beautiful-makefile)
 - [The AWK book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
+- [Managing dotfiles with Make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 
