@@ -62,3 +62,6 @@
 - [The AWK book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 - [Managing dotfiles with Make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 
+## Videos
+
+- [CMake Basic Setup](https://m.youtube.com/watch?v=SEQMa-nonPg)
