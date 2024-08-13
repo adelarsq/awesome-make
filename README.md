@@ -31,6 +31,9 @@
 - [shikaan/shmux](https://github.com/shikaan/shmux) [HN](https://news.ycombinator.com/item?id=34119355)
 - [Task](https://github.com/go-task/task) (Go)
 - [Alternatives list on Github](https://github.com/topics/make)
+- [bld](https://rife2.com/bld) (Java)
+- [Maven](https://maven.apache.org) (Java)
+- [Gradle](https://gradle.org) (Java)
 
 ## Tools
 
