@@ -17,6 +17,10 @@
 - [CheckMake](https://github.com/mrtazz/checkmake)
 - [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make)
 
+## Templates
+
+- [Ultimate Go Make](https://github.com/crazywolf132/ultimate-gomake)
+
 ## Alternatives
 
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) (.NET - F#/C#)
