@@ -16,6 +16,7 @@
 
 - [CheckMake](https://github.com/mrtazz/checkmake)
 - [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make)
+- [Bake](https://github.com/EbodShojaei/bake) - Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices
 
 ## Templates
 
