@@ -11,6 +11,7 @@
 
 - [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
 - [Make2Tap](https://www.npmjs.com/package/make2tap) - Leverage Tap to transform the make outputs into nice readable ones
+- [MKPM - Make Package Manager](https://github.com/fe18m/mkpm) - MKPM is a minimalist package manager for GNU Make
 
 ## Lint and Highlight
 
